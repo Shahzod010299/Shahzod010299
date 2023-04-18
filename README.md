@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shahzod010299
-- 👀 I’m interested in coding
+- telegram: @coderShakhzod
 
 <!---
 Shahzod010299/Shahzod010299 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
